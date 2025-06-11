@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="local" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="local">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/agent_contract" />
+            <excludedPath path="/ai" />
+            <excludedPath path="/apconnect" />
+            <excludedPath path="/app" />
+            <excludedPath path="/auth" />
+            <excludedPath path="/automation" />
+            <excludedPath path="/bi" />
+            <excludedPath path="/biconnector" />
+            <excludedPath path="/bitrix" />
+            <excludedPath path="/bizproc" />
+            <excludedPath path="/booking" />
+            <excludedPath path="/calendar" />
+            <excludedPath path="/call" />
+            <excludedPath path="/company" />
+            <excludedPath path="/conference" />
+            <excludedPath path="/configs" />
+            <excludedPath path="/crm" />
+            <excludedPath path="/departments" />
+            <excludedPath path="/desktop_app" />
+            <excludedPath path="/desktop_menu" />
+            <excludedPath path="/devops" />
+            <excludedPath path="/docs" />
+            <excludedPath path="/einvoice" />
+            <excludedPath path="/hr" />
+            <excludedPath path="/images" />
+            <excludedPath path="/include" />
+            <excludedPath path="/kb" />
+            <excludedPath path="/knowledge" />
+            <excludedPath path="/mail" />
+            <excludedPath path="/market" />
+            <excludedPath path="/marketing" />
+            <excludedPath path="/marketplace" />
+            <excludedPath path="/me.carfleet" />
+            <excludedPath path="/mobile" />
+            <excludedPath path="/oauth" />
+            <excludedPath path="/onec" />
+            <excludedPath path="/page" />
+            <excludedPath path="/pub" />
+            <excludedPath path="/report" />
+            <excludedPath path="/rpa" />
+            <excludedPath path="/saleshub" />
+            <excludedPath path="/search" />
+            <excludedPath path="/services" />
+            <excludedPath path="/shop" />
+            <excludedPath path="/sign" />
+            <excludedPath path="/sitemap" />
+            <excludedPath path="/sites" />
+            <excludedPath path="/spaces" />
+            <excludedPath path="/stream" />
+            <excludedPath path="/tasks" />
+            <excludedPath path="/telephony" />
+            <excludedPath path="/terminal" />
+            <excludedPath path="/test" />
+            <excludedPath path="/timeman" />
+            <excludedPath path="/upload" />
+            <excludedPath path="/vibe" />
+            <excludedPath path="/workgroups" />
+            <excludedPath path="/.access.php" />
+            <excludedPath path="/.bottom.menu.php" />
+            <excludedPath path="/.department.menu_ext.php" />
+            <excludedPath path="/.htaccess" />
+            <excludedPath path="/.section.php" />
+            <excludedPath path="/.top.menu.php" />
+            <excludedPath path="/.top.menu_ext.php" />
+            <excludedPath path="/.top_links.menu.php" />
+            <excludedPath path="/404.php" />
+            <excludedPath path="/500.html" />
+            <excludedPath path="/auth.php" />
+            <excludedPath path="/blank.php" />
+            <excludedPath path="/desktop.php" />
+            <excludedPath path="/favicon.ico" />
+            <excludedPath path="/index.php" />
+            <excludedPath path="/index_old.php" />
+            <excludedPath path="/license_restriction.php" />
+            <excludedPath path="/robots.txt" />
+            <excludedPath path="/storage.php" />
+            <excludedPath path="/urlrewrite.php" />
+            <excludedPath path="/ustat.php" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
