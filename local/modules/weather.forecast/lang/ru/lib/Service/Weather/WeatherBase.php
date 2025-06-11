@@ -1,0 +1,4 @@
+<?php
+
+$MESS['WEATHER_FORECAST_SERVICE_API_KEY_LENGTH_ERROR'] = 'Неправильная длина ключа API';
+$MESS['WEATHER_FORECAST_SERVICE_CITY_LENGTH_ERROR'] = 'Не указан город';
